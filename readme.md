@@ -71,6 +71,7 @@
   - [headless-devtools](https://github.com/cowchimp/headless-devtools) - Puppeteer plugin to get CSS Coverage or JS Heap snapshot.
   - [PuPHPeteer](https://github.com/rialto-php/puphpeteer) - PHP-bridge to control Puppeteer using PHP.
 - [Playwright](https://github.com/microsoft/playwright) - Node.js library to automate Chromium, Firefox and WebKit with a single API.
+- [Rod](https://github.com/go-rod/rod) - A Devtools driver for web automation and scraping.
 - [Taiko](https://github.com/getgauge/taiko/) - A Node.js module to automate the Chrome/Chromium using DevTools protocol.
 - Also all `Protocol Driver Libraries` below
 
@@ -87,6 +88,7 @@
 - Go: [cdp](https://github.com/mafredri/cdp)
 - Go: [gcd](https://github.com/wirepair/gcd)
 - Go: [godet](https://github.com/raff/godet)
+- Go: [rod](https://github.com/go-rod/rod)
 - C#/dotnet: [chrome-dev-tools](https://github.com/BaristaLabs/chrome-dev-tools) - Protocol wrapper generator that can be customized by editing handlebars templates. Includes .Net Core template.
 - Ruby: [Cuprite](https://github.com/machinio/cuprite) - Capybara driver
 - Ruby: [ChromeRemote](https://github.com/cavalle/chrome_remote/)
